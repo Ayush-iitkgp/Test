@@ -1,2 +1,2 @@
 # Zemanta Data Science Summer School
-This repository contains the code and the dataset used during the Sentiment Analysis Workshop
+This repository contains the code and the dataset used during the Sentiment Analysis Workshop at [Zemanta Data Science Summer School](https://www.facebook.com/events/369046473596370/) and [Introduction to Text Analyasis](https://www.eventbrite.com/e/introduction-to-text-analysis-registration-55019364400?aff=ebdssbdestsearch) workshop organized by Data Science Group at University of Ljubljana.
